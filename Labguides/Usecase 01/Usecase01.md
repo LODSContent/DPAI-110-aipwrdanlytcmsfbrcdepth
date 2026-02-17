@@ -1,4 +1,4 @@
-# Use case 1: Creating a Lakehouse, ingesting sample data and building a report
+# Use case 1: Creating a Lakehouse, ingesting sample data and building a report-wkbump
 
 **Introduction**
 
@@ -1018,5 +1018,6 @@ The lab also covers tasks related to ingesting sample data, optimizing
 delta tables, and building reports in Power BI for effective data
 analysis. The objectives aim to provide hands-on experience in utilizing
 Microsoft Fabric and Power BI for data management and reporting purpo
+
 
 
